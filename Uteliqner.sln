@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uteliqner", "Uteliqner\Uteliqner.csproj", "{08EA2098-6844-429A-B3EA-C0C20FDDBD01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uteliqner Mas2", "Uteliqner Mas2\Uteliqner Mas2.csproj", "{9FD0A44E-B3C1-4373-AEB0-F5B54BD31774}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08EA2098-6844-429A-B3EA-C0C20FDDBD01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08EA2098-6844-429A-B3EA-C0C20FDDBD01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08EA2098-6844-429A-B3EA-C0C20FDDBD01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08EA2098-6844-429A-B3EA-C0C20FDDBD01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FD0A44E-B3C1-4373-AEB0-F5B54BD31774}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FD0A44E-B3C1-4373-AEB0-F5B54BD31774}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FD0A44E-B3C1-4373-AEB0-F5B54BD31774}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FD0A44E-B3C1-4373-AEB0-F5B54BD31774}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE4132D8-9BF5-4EB1-B700-41BCDA01FDB4}
+	EndGlobalSection
+EndGlobal
