@@ -2,8 +2,8 @@
 {
     public class Pizza_3 : Uteliqner_3
     {
-      
-        public override  void Name()
+
+        public override void Name()
         {
             Console.Write("Pizza- ");
         }
@@ -11,7 +11,6 @@
         {
             Console.Write("3000 amd, ");
         }
-
         public override void Hatkutyan()
         {
             Console.Write("Lav ban");

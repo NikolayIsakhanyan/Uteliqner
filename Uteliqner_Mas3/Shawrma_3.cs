@@ -5,14 +5,12 @@
         public override void Name()
         {
             Console.Write("Shawrma- ");
-        
         }
         public override void Arjeq()
         {
             Console.Write("1050 amd, ");
         }
-
-        public override void Hatkutyan()
+  public override void Hatkutyan()
         {
             Console.Write("Katuneri tshnami");
         }

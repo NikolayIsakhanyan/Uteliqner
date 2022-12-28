@@ -17,7 +17,6 @@ namespace Uteliqner_Mas3
         {
             Console.Write("1500 amd, ");
         }
-
         public override void Hatkutyan()
         {
             Console.Write("Ughaki organner");
