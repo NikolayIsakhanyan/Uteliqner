@@ -10,7 +10,15 @@ namespace Uteliqner_Mas2
     {
         public override void Name()
         {
-            Console.WriteLine("Pizza-");
+            Console.Write("Pizza-");
+        }
+        public override void Value()
+        {
+            Console.Write(" 3000 amd, ");
+        }
+        public override void Desin()
+        {
+            Console.Write("Lav ban");
         }
     }
 }

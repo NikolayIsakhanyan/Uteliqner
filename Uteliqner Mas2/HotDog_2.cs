@@ -10,7 +10,15 @@ namespace Uteliqner_Mas2
     {
         public override void Name()
         {
-            Console.WriteLine("HotDog-");
+            Console.Write("HotDog-");
+        }
+        public override void Value()
+        {
+            Console.Write(" 500 amd, ");
+        }
+        public override void Desin()
+        {
+            Console.Write("Haci mej esim incher");
         }
     }
 }

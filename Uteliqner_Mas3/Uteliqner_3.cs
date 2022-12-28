@@ -2,14 +2,14 @@
 {
     public abstract class Uteliqner_3
     {
-        public Uteliqner_3(int a)
+        public Uteliqner_3()
         {
-            Name(a);
-            Arjeq(a);
-            Hatkutyan(a);
+            Name();
+            Arjeq();
+            Hatkutyan();
         }
-        public abstract  void Name(int a1);
-        public abstract void Arjeq(int a2);
-        public abstract void Hatkutyan(int a3);
+        public abstract  void Name();
+        public abstract void Arjeq();
+        public abstract void Hatkutyan();
     }
 }
